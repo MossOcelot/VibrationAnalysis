@@ -1,6 +1,6 @@
 เมื่อทำการ clone project ลงเครื่องแล้วให้ติดตั้ง python environment ด้วย
 `python -m venv .venv` หรือ `python3 -m venv .venv`
-
+<br>
 หลังจากนั้น เข้า Environment 
 หากเป็นของ window ใช้ `.venv/Script/activate`
 mac: `. .venv/bin/activate`
